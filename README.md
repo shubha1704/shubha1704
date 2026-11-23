@@ -4,7 +4,7 @@
 
 ### AI Product Minded Professional with an AI engineering background
 
-I decide **what** AI should build and **why**, and because I've built it myself, I know **how**.
+## Building AI taught me that the model is rarely the hard part. Deciding what to build, and why, is. That's why I moved into product.
 
 - 🧠 **Present:** AI Product Intern at **Cheerio AI**
 - 🛠️ **Before:** Almost 2 years as an AI Engineer, building ML and NLP solutions, including two customer-operations tools that cut one task from **11 → 2 minutes** and another from **12 → 4**
