@@ -1,4 +1,4 @@
-<img src="https://github.com/shubha1704.png" align="right" width="200" alt="Shubhashree P"/>
+
 
 # Hi, I'm Shubhashree 👋
 
