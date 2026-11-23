@@ -5,7 +5,7 @@
 ### AI Product Minded Professional with an AI engineering background
 ### Building AI taught me that the model is rarely the hard part. Deciding what to build, and why, is. That's why I moved into product.
 
-- 🧠 **Present:** AI Product Intern at **Cheerio AI**
+- 🧠 **Present:** AI Product Intern at **Cheerio AI** & **WiseOrg AI**
 - 🛠️ **Before:** Almost 2 years as an AI Engineer, building ML and NLP solutions, including two customer-operations tools that cut one task from **11 → 2 minutes** and another from **12 → 4**
 - 🎓 **Studying:** M.Tech in AI & ML at BITS Pilani (Work Integrated Learning)
 - 📍 **Based in:** Bengaluru
