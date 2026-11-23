@@ -2,11 +2,11 @@
 
 # Hi, I'm Shubhashree 👋
 
-### AI Product Manager with an AI engineering background
+### AI Product Minded Professional with an AI engineering background
 
 I decide **what** AI should build and **why**, and because I've built it myself, I know **how**.
 
-- 🧠 **Now:** AI Product Intern at **Cheerio AI**
+- 🧠 **Present:** AI Product Intern at **Cheerio AI**
 - 🛠️ **Before:** Almost 2 years as an AI Engineer, building ML and NLP solutions, including two customer-operations tools that cut one task from **11 → 2 minutes** and another from **12 → 4**
 - 🎓 **Studying:** M.Tech in AI & ML at BITS Pilani (Work Integrated Learning)
 - 📍 **Based in:** Bengaluru
