@@ -14,6 +14,18 @@ I decide **what** AI should build and **why**, and because I've built it myself,
 <br clear="right"/>
 
 ---
+## 🏆 Highlights
+
+| | |
+|---|---|
+| 🚀 **3× Global Nominee** | NASA Space Apps Challenge |
+| 🥇 **National Winner** | National Debate (2022), recognised by the Supreme Court of India |
+| 📚 **Author** | Author of 3 books, co-author of 2 |
+| 👩‍🏫 **500+ people trained** | AI/ML trainer and speaker, including IEEE sessions |
+| 🎙️ **Panelist** | Alongside NITI Aayog and ISRO |
+
+---
+
 
 ## 📂 Featured Work
 
